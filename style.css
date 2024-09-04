@@ -75,6 +75,9 @@ footer {
     width: 100%;
     padding: 1rem;
     background-color: #59D9A1;
+    display:flex;
+    justify-content: space-around;
+    /*justify-items: center;*/
 }
 
 /* CODE YOUR FLEXBOXES HERE */
