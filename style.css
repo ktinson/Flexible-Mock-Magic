@@ -99,3 +99,20 @@ footer {
     display: flex;
     justify-content: flex-start;
 }
+
+.flex-main{
+    display: flex;
+    flex-direction: row;
+}
+
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: flex-start;
+}
+
+.main-content{
+    display: flex;
+    flex-wrap: wrap;
+}
